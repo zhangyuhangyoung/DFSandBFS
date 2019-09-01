@@ -1,0 +1,9 @@
+C:\Users\YH\source\repos\DFSandBFS\DFSandBFS\bin\Debug\DFSandBFS.exe.config
+C:\Users\YH\source\repos\DFSandBFS\DFSandBFS\bin\Debug\DFSandBFS.exe
+C:\Users\YH\source\repos\DFSandBFS\DFSandBFS\bin\Debug\DFSandBFS.pdb
+C:\Users\YH\source\repos\DFSandBFS\DFSandBFS\obj\Debug\DFSandBFS.csprojAssemblyReference.cache
+C:\Users\YH\source\repos\DFSandBFS\DFSandBFS\obj\Debug\DFSandBFS.Properties.Resources.resources
+C:\Users\YH\source\repos\DFSandBFS\DFSandBFS\obj\Debug\DFSandBFS.csproj.GenerateResource.cache
+C:\Users\YH\source\repos\DFSandBFS\DFSandBFS\obj\Debug\DFSandBFS.csproj.CoreCompileInputs.cache
+C:\Users\YH\source\repos\DFSandBFS\DFSandBFS\obj\Debug\DFSandBFS.exe
+C:\Users\YH\source\repos\DFSandBFS\DFSandBFS\obj\Debug\DFSandBFS.pdb
